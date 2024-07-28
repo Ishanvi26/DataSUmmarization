@@ -1,1 +1,1 @@
-# DataSUmmarization
+# DataSummarization
